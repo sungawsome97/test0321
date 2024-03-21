@@ -1,0 +1,21 @@
+* {
+  padding: 10px;
+  margin: 5px;
+  text-align: justify;
+  background-color: chocolate;
+}
+
+header {
+  color: darkblue;
+  justify-content: space-between;
+}
+
+main {
+  list-style: none;
+  display: flex;
+  color: cadetblue;
+}
+
+footer {
+  background-color: darkmagenta;
+}
